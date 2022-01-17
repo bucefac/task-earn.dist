@@ -6,6 +6,6 @@
   src:
 	  local("Euclid Circular A"),
 	  local("Euclid Circular A Regular"),
-	  url("/fonts/EuclidCircularA/EuclidCircularA-Regular.woff2") format("woff2"),
-	  url("/fonts/EuclidCircularA/EuclidCircularA-Regular.woff") format("woff");
+	  url("/task-earn.dist/fonts/EuclidCircularA/EuclidCircularA-Regular.woff2") format("woff2"),
+	  url("/task-earn.dist/fonts/EuclidCircularA/EuclidCircularA-Regular.woff") format("woff");
 }  
